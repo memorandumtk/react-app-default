@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          I edited.
+          I edited this index file which you can see now.
         </p>
         <a
           className="App-link"
